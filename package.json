@@ -10,6 +10,8 @@
   "author": "Patrick Galdino <patrick@galdino.me> (https://galdino.me/)",
   "license": "MIT",
   "devDependencies": {
-    "git-commit-msg-linter": "^3.0.0"
+    "@types/node": "^13.1.6",
+    "git-commit-msg-linter": "^3.0.0",
+    "typescript": "^3.7.4"
   }
 }
